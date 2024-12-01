@@ -1,5 +1,8 @@
 h1{
-    color: gray;
+    color: #737578;
+    font-size: 500%;
+    margin-top: 5%;
+    text-align: center;
 }
 
 div{
@@ -41,5 +44,7 @@ nav li a:hover {
 body{
     padding: 0;
     margin: 0;
-    background-color: black;
+    background-color: rgb(7, 7, 7);
 }
+
+
